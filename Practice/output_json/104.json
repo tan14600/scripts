@@ -1,0 +1,24 @@
+{
+    "basic_info": {
+        "candidate_id": "104",
+        "name": "David",
+        "email": "david@example.com",
+        "phone": "4445556666"
+    },
+    "experience": [
+        {
+            "candidate_id": "104",
+            "company": "Meta",
+            "title": "Analyst",
+            "years": "1"
+        }
+    ],
+    "education": [
+        {
+            "candidate_id": "104",
+            "degree": "BSc",
+            "university": "Anna University",
+            "year": "2020"
+        }
+    ]
+}

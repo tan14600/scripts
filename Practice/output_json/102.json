@@ -1,0 +1,34 @@
+{
+    "basic_info": {
+        "candidate_id": "102",
+        "name": "Bob",
+        "email": "bob@example.com",
+        "phone": "0987654321",
+        "address": {
+            "country": "United States",
+            "city": "Dallas"
+        }
+    },
+    "experience": [
+        {
+            "candidate_id": "102",
+            "company": "Microsoft",
+            "title": "PM",
+            "years": "3"
+        }
+    ],
+    "education": [
+        {
+            "candidate_id": "102",
+            "degree": "MBA",
+            "university": "IIM Bangalore",
+            "year": "2019"
+        },
+        {
+            "candidate_id": "102",
+            "degree": "B.Com",
+            "university": "Delhi University",
+            "year": "2016"
+        }
+    ]
+}

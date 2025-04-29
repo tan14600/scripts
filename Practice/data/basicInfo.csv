@@ -1,0 +1,5 @@
+candidate_id,name,email,phone,loc1,loc2,loc3
+101,Alice,alice@example.com,1234567890,loc-city-Blr,loc-state-Karnataka,loc-country-IN
+102,Bob,bob@example.com,0987654321,,loc-country-US,loc-city-Dallas
+103,Charlie,charlie@example.com,1112223333,loc-country-IN,loc-state-as,bad-format-abc
+104,David,david@example.com,4445556666,,,

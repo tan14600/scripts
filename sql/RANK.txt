@@ -1,0 +1,8 @@
+SELECT transaction_id, merchant_id, amount,
+       RANK() OVER (PARTITION BY merchant_id ORDER BY amount DESC) AS rank
+FROM transactions;
+
+
+>> Partitons created for every merchant_id and the data is ordered by amount in DESC order
+
+>> 

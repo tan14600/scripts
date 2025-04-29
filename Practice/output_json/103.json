@@ -1,0 +1,14 @@
+{
+    "basic_info": {
+        "candidate_id": "103",
+        "name": "Charlie",
+        "email": "charlie@example.com",
+        "phone": "1112223333",
+        "address": {
+            "country": "India",
+            "state": "as"
+        }
+    },
+    "experience": [],
+    "education": []
+}
